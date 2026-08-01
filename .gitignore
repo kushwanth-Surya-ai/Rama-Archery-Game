@@ -1,0 +1,27 @@
+# Godot
+.godot/
+*.translation
+
+# Build artifacts (regenerable — do not commit)
+build/
+iosbuild/
+*.pck
+*.ipa
+*.xcarchive/
+*.xcframework/
+*.a
+
+# Assets over GitHub's 100 MB per-file limit — copy in manually
+assets/bhagwan_shri_ram.glb
+assets/monster_concept.glb
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Signing / secrets
+*.p12
+*.mobileprovision
+*.pem
+.env
+.env.*

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfdlsb8usv134"
+path="res://.godot/imported/12958_Spider_Monkey_v1_l2.obj-4e4f2e71e868f18616bd2e9d7adddb6f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/12958_Spider_Monkey_v1_l2.obj-4e4f2e71e868f18616bd2e9d7adddb6f.mesh"]
+
+source_file="res://assets/Spider_Monkey_v1_L2.123c40f743d8-db49-416b-ba8d-6baa7817941e/12958_Spider_Monkey_v1_l2.obj"
+dest_files=["res://.godot/imported/12958_Spider_Monkey_v1_l2.obj-4e4f2e71e868f18616bd2e9d7adddb6f.mesh", "res://.godot/imported/12958_Spider_Monkey_v1_l2.obj-4e4f2e71e868f18616bd2e9d7adddb6f.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
